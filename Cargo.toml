@@ -1,11 +1,12 @@
 [package]
-name = "first_bevy_project"
+name = "spinning_csh_thing"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bevy = "0.11.0"
+bevy = "0.10.0"
 cross = "0.2.5"
 devcaders = "0.5.0"
+rand = "0.8.5"
